@@ -32,7 +32,7 @@
   npm run dev
   ```
 
-- 在terminal可以看到 Express is listening on localhost : 3000，開啟瀏覽器在網址列輸入localhost:3000
+- 在terminal可以看到 已連線到[http://localhost:3000](http://localhost:3000)，開啟瀏覽器在網址列輸入localhost:3000
 
 ## Test Account
 您可使用下列帳號做測試：
